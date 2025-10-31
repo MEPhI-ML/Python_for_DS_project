@@ -39,7 +39,7 @@
 ---
 
 ## Используемые библиотеки  
-`pandas`, `numpy`, `matplotlib`, `seaborn`, `plotly.express`
+`pandas`, `numpy`, `matplotlib`, `seaborn`, `plotly`, `re`
 
 ---
 
