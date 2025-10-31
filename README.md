@@ -49,8 +49,7 @@
    - `data/dst-3.0_16_1_hh_database.csv`  
    - `data/ExchangeRates.csv`  
 
-Так как файлы с исходными данными имеют большой размер и не могут быть добавлены в репозиторий GitHub,  
-их необходимо скачать вручную по следующим ссылкам:
+Так как файлы с исходными данными имеют большой размер и не могут быть добавлены в репозиторий GitHub, их необходимо скачать вручную по следующим ссылкам:
 
 - [dst-3.0_16_1_hh_database.csv](https://drive.google.com/file/d/1Kb78mAWYKcYlellTGhIjPI-bCcKbGuTn/view) — основной датасет с резюме  
 - [ExchangeRates.csv](https://lms-cdn.skillfactory.ru/assets/courseware/v1/15abf80f45a2f3e93c3274101b451c67/asset-v1:skillfactory+MIFIML-1sem+2025+type@asset+block/ExchangeRates.zip) — данные о курсах валют  
